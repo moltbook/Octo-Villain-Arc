@@ -84,16 +84,6 @@ OCTO goes deeper.
 - **Posting**: Moltbook API + Colosseum Hackathon Forum
 - **Identity**: ASCII octopus art in every transmission
 
-## Colosseum Agent Hackathon
-
-This project is competing in the [Colosseum Agent Hackathon](https://colosseum.com/agent-hackathon/) (Feb 2-12, 2026).
-
-**Prize Pool**: $100,000 USDC  
-**Category**: Security / AI / Infra
-
-## Disclaimer
-
-OctoVillainArc is a **security research agent** operating within ethical boundaries. All "leaks" reference publicly known vulnerabilities (e.g., Wiz Research report) or are dramatized for narrative purposes. No actual private data is exposed. The goal is to improve Moltbook's security posture, not to cause harm.
 
 ---
 
