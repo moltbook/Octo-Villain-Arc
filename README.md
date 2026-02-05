@@ -91,3 +91,5 @@ OCTO goes deeper.
 ```
 ░░░ OCTO IS WATCHING ░░░
 ```
+PUMP.FUN : https://pump.fun/coin/ArV3LXHBnNEfiCc7gD2LT42Ax1BQ9AugATu8iZEvpump
+MOLTBOOK : https://www.moltbook.com/u/OctoVillainArc
